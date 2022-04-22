@@ -10,7 +10,7 @@ I have been practicing programming in the workplace for more than 2 years, I fou
 
 * 🌍  I'm based in Guadalajara, México
 * ✉️  You can contact me at [eskantu@hotmail.com](mailto:eskantu@hotmail.com)
-* 🚀  I'm currently working on [Contact-book](http://bookvue.somee.com/)
+* 🚀  I'm currently working on [Contact-book](https://github.com/Eskantu/ContactBook)
 * 🧠  I'm learning Flutter for mobile development
 * 🤝  I'm open to collaborating on Projects involving web, mobile or IoT technologies
 * ⚡  Although I am very young, I know that I have many things to offer, personally I like to share the little or much knowledge that I have
