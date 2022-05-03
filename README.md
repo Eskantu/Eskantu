@@ -3,7 +3,7 @@
 Hi 👋 My name is Mario Escalante
 ================================
 
-Web and .Net developer
+Web and mobile developer
 ----------------------
 
 I have been practicing programming in the workplace for more than 2 years, I found the passion in web and mobile development, regardless of technology, although so far my preferred technologies are vue.js, asp.net core, Xamarin.Forms and flutter , each one has taught me different things that help me be a better developer.
